@@ -1,0 +1,4 @@
+git clone https://github.com/gmarik/vundle.git  ~/.vim/bundle/vundle
+:BundleList    //会显示你vimrc里面填写的所有插件名称
+:BundleInstall  //会自动下载安装或更新你的插件。
+
